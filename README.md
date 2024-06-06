@@ -15,3 +15,19 @@ Features:
     -View Reports/History
     -Cancel Requests
     -Data Management : BAAK can perform CRUD operations on data as needed.
+
+
+Prerequisites
+
+    Flutter SDK: Install the Flutter SDK from flutter.dev.
+    
+    Dart SDK: Included with Flutter SDK.
+    
+    Laravel: Install Laravel via Composer from laravel.com.
+    
+    MySQL: Install MySQL for the database.
+    
+    Git: Install Git from git-scm.com.
+
+
+
